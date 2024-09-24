@@ -1,0 +1,17 @@
+{
+  "name": "rotas/php",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Evandro Mateus",
+      "email": "evandromateus06@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/var-dumper": "^7.1"
+  }
+}
