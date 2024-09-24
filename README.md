@@ -12,7 +12,7 @@ Este repositório contém um sistema de rotas completo desenvolvido em PHP utili
 ## Instalação
 
 **Pré-requisitos:**
-* **PHP8
-* **Composer
+* **PHP8**
+* **Composer**
 
 *Desenvolvido com o auxilio do curso "Rota profissional com PHP" do Clube Full-Stack
